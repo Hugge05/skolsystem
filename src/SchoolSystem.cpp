@@ -16,7 +16,7 @@ void SchoolSystem::Run()
 		switch(input)
 		{
 			case "1":
-				int input
+				
 				break;
 		}
 
